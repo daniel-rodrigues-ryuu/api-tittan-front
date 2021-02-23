@@ -1,0 +1,14 @@
+* {
+  text-shadow: 0.3px 0.3px gray;
+}
+
+div.home {
+  background-color: white;
+  text-align: center;
+  padding: 30px;
+}
+
+div.home p {
+  width: 90%;
+  font-size: 18px;
+}

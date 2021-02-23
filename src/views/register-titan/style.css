@@ -1,0 +1,27 @@
+.register-titan {
+  text-align: center;
+  margin: 10px auto;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.form-register {
+  width: 60%;
+  margin: 0;
+}
+
+.form-register label{
+  margin:0px;
+  width: 50%;
+}
+
+.form-register .form-control{
+  width: 96%;
+}
+
+.form-register .form-control:hover{
+  border: 1px solid #00BFFF;
+  background: #E0FFFF;
+}

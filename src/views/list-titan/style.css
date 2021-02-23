@@ -1,0 +1,9 @@
+.titans-list #titan-article {
+  background-color: lightgray;
+  margin: 20px;
+  padding: 10px;
+}
+
+.list {
+  text-shadow: 0.5px 0.5px gray;
+}
